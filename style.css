@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+}
+.img-thumbnail {
+    width: 200px;
+    border: none;
+}
+#edgar {
+    float: right;
+}
